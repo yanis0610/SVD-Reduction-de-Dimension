@@ -22,7 +22,7 @@ $$\min_{\text{rank}(B) \le k} \Vert{}A - B\Vert{}_F = \Vert{}A - A_k\Vert{}_F = 
 ## 📄 Rapport Académique
 
 Pour consulter les démonstrations d'algèbre linéaire et l'analyse théorique complète :  
-👉 **[Consulter le rapport complet (PDF)](./report.pdf)**
+👉 **[Consulter le rapport complet (PDF)](./SVD_Reduction_Dimension.pdf)**
 ## 📊 Aperçu des Résultats
 
 
