@@ -5,8 +5,8 @@ Ce projet d'**Algèbre Linéaire Numérique** illustre l'utilisation de la **Dé
 ## 📌 Contenu du Projet
 
 - **`SVD_Reduction_Dimension.py`** : Script Python calculant la factorisation SVD ($A = U \Sigma V^T$), la reconstruction de rang $k$, et la norme de Frobenius du bruit/erreur.
-- **`svd_compression_results.png`** : Visualisation comparative des reconstructions ($k \in \{5, 20, 50, 100\}$) et courbe de l'erreur relative.
-- **`report.pdf`** : Rapport académique complet rédigé en $\LaTeX$ contenant les preuves théoriques du théorème d'Eckart-Young-Mirsky.
+- **`SVD_Reduction_Dimension.png`** : Visualisation comparative des reconstructions ($k \in \{5, 20, 50, 100\}$) et courbe de l'erreur relative.
+- **`SVD_Reduction_Dimension.pdf`** : Rapport académique complet rédigé en $\LaTeX$ contenant les preuves théoriques du théorème d'Eckart-Young-Mirsky.
 
 ## 🛠️ Technologies Utilisées
 
